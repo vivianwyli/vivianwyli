@@ -1,0 +1,46 @@
+body {
+
+
+}
+h1 {
+	font-family: montserrat, san-serif;
+	font-weight: bold;
+	text-decoration: uppercase;
+	font-size: 40px;
+	font-color: #2a2a2a ;
+}
+
+h2 {
+	font-family: montserrat, san-serif;
+	font-weight: bold;
+	text-decoration: uppercase;
+	font-size: 30px;
+	font-color: #2a2a2a ;
+}
+
+p {
+	font-family: open sans, san-serif;
+	font-size: 13px;
+	font-color: #2a2a2a;
+}
+
+ul{}
+
+li{}
+
+img{}
+
+
+#slogan {
+	font-style: italic;
+	font-weight: bold;
+}
+
+}
+a {
+	text-decoration: none;
+}
+
+background {
+	color: #;
+}
