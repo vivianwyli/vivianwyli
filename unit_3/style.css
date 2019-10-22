@@ -1,27 +1,31 @@
 body {
-
+background-color: #;
+background-size: cover;
 
 }
 h1 {
 	font-family: montserrat, san-serif;
 	font-weight: bold;
 	text-decoration: uppercase;
-	font-size: 40px;
+	font-size: 40 px;
 	font-color: #2a2a2a ;
+	text-align: center;
 }
 
 h2 {
 	font-family: montserrat, san-serif;
 	font-weight: bold;
 	text-decoration: uppercase;
-	font-size: 30px;
+	font-size: 30 px;
 	font-color: #2a2a2a ;
+	text-align: center;
 }
 
 p {
 	font-family: open sans, san-serif;
-	font-size: 13px;
+	font-size: 13 px;
 	font-color: #2a2a2a;
+	text-align: center;
 }
 
 ul{}
@@ -34,6 +38,7 @@ img{}
 #slogan {
 	font-style: italic;
 	font-weight: bold;
+	text-align:center;
 }
 
 }
