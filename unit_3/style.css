@@ -33,7 +33,7 @@ ul{}
 li{}
 
 img{
-background-image: cover;	
+background-size: auto;	
 }
 
 
@@ -41,6 +41,7 @@ background-image: cover;
 	font-style: italic;
 	font-weight: bold;
 	text-align:center;
+	font-size: 40px;
 }
 
 }
