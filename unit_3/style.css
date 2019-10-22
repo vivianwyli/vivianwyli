@@ -1,10 +1,14 @@
 body {
 background-color: #f2f2f2;
-
+text-align: center;
+  background: url("unit_3/Images/hero-image.jpg");
+  background-size: auto;
+  color: #fff;
+  font-family: helvetica;
 
 }
 h1 {
-	font-family: arial, san-serif;
+	font-family: Montserrat, san-serif;
 	font-weight: bold;
 	text-decoration: uppercase;
 	font-size: 40px;
@@ -13,7 +17,7 @@ h1 {
 }
 
 h2 {
-	font-family: arial, san-serif;
+	font-family: Montserrat, san-serif;
 	font-weight: bold;
 	text-decoration: uppercase;
 	font-size: 30px;
