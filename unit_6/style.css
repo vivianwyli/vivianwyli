@@ -1,0 +1,153 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: center;
+    
+}
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+    background-image: Images/hero-image.jpg;
+    
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+Section {
+  background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+    
+}    
+
+div {
+background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;  
+}
+
+footer {
+background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;  
+}
+.header {
+  font-family: Montserrat, san-serif;
+  font-weight: bold;
+  text-decoration: uppercase;
+  font-size: 40px;
+  color: #ffffff ;
+  text-align: center;
+    
+}
+
+
+h1 {
+  font-family: Montserrat, san-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #2a2a2a ;
+  text-align: center;
+}
+
+h2 {
+  font-family: Montserrat, san-serif;
+  font-weight: bold;
+  text-decoration: uppercase;
+  font-size: 30px;
+  color: #2a2a2a;
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #2a2a2a;
+  text-align: center;
+  font-size: 18px;
+    line-height:1.5em;
+  margin: 3em;
+}
+}
+
+ul {
+ list-style-type: none;
+    text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+text-align: center;
+list-style-type: none;
+}
+
+#nav{
+  display: inline;
+}
+img{
+}
+
+
+.slogan {
+  font-style: italic;
+  font-weight: bold;
+  text-align:center;
+  font-size: 25px;
+    color:#ffffff;
+}
+
+}
+a {
+  text-decoration: none;
+    color: #f5ae2b;
+}
+
+
+.hero-image {
+  background-image:  url("Images/hero-image.jpg");
+  height: 85%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#one {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 10px;
+    float: left;
+    width: 60%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 5px;
+    float: right;   
+    width: 30%;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
