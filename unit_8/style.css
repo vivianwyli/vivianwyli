@@ -253,11 +253,7 @@ color: white;
   p {
     margin: 1.8em .6em 2em;
   }
-  li {
-    width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-  }
+ 
 li {
     width: 80%;
     outline-width: .5em;
