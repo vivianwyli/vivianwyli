@@ -234,7 +234,7 @@ box-shadow:2px 2px 10px grey;
 @media only screen and (max-width: 480px) {
   h1 {
     display: block;
-      width: 70%
+      width: 90%
   }
     
     nav {
@@ -284,6 +284,6 @@ li {
     line-height: 2em;
   }  
 .slogan {
-	width: 60%;
+	width: 86%;
 }
 }
