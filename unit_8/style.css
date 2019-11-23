@@ -37,7 +37,7 @@ padding: 1em;
 
 header {
   background-image:url(Images/hero-image.jpg);
-  height: auto;
+  height: 500px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -101,8 +101,9 @@ list-style-type: none;
 	font-style: italic;
 	font-weight: bold;
 	text-align:center;
-	font-size: 25px;
+	font-size: 2em;
     color:#ffffff;
+    padding-bottom: 1em ;
 }
 
 }
