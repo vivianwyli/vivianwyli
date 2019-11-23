@@ -37,14 +37,14 @@ padding: 1em;
 
 header {
   background-image:url(Images/hero-image.jpg);
-  height: 400px;
+  height: auto;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   overflow: hidden;
   position: relative;
-  margin: 2em;
+
 }
 
 .group {
